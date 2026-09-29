@@ -43,6 +43,8 @@ elif input1 == 'baby':
                 input11 = input('want to add it to a mc meal: ')
                 if input11 == 'yes':
                     print('then put it in a bun add some scliced up pickles, tomato suoce, and a sclice of cheese, and bam your mc baby is ready(it gos realy well with the mc baby friys)')
+                if input11 == 'no':
+                    print('then lets make baby ramen, cook the baby on a fring pan for as long as it takes for it to turn a golden color on the under side then flip it over until the frunt is golden now')               
         if input5 == 'no':
             print('then body temp it is')
             input8 = input('want to chop up the baby: ')
