@@ -1,4 +1,4 @@
-print("couculator of doom the sprickulator")
+print("calculator of doom the sprickulator")
 input1 = input("code word: ")
 if input1 == 'calculator':
     num1 = input("number 1: ")
@@ -17,7 +17,7 @@ if input1 == 'calculator':
     print(ans)
 elif input1 == 'baby':
     print("how do you like you baby")
-    input2 = input("do you like them walm: ")
+    input2 = input("do you like them hot: ")
     if input2 == 'yes':
         print("then toss it in the microwave for 30 seconds")
         input3 = input('want it to be roasted: ')
@@ -35,3 +35,14 @@ elif input1 == 'baby':
                 print('then wizz it up in a blender for 20 secons')
                 input7 = input('want to make it a milkshake: ')
                 if input7 == 'yes':
+                    print('then toss it in the wizzer with some ice cream and milk for a cople of seconds and bam a baby flavored milkshake')
+                if input7 == 'no':
+                    print('then a soup it is, toss it in a blender with some vegtables and spices maybe some salt if you want put it all in a pot and let it cook for therty minutes to an hour and bam now you have made baby soup')
+        if input5 == 'no':
+            print('then body temp it is')
+            input8 = input('want to chop up the baby: ')
+            if input8 == 'yes':
+                print('then chop it up into thin little stack chops')
+                input9 = input('want to put it in the deep frier: ')
+                if input9 == 'no':
+                    print('then where going to make a baby salad, toss the baby in the oven to cook for fourty minutes, while the baby is cooking chop up some vegtables for the salad, once the baby stops cooking and is at the disiered temp, bring it out of the oven and put it with the choped up vegtables, and to finish it off, add a nice dresing to it and your done, enjoy your baby salad')
