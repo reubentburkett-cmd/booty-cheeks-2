@@ -32,12 +32,17 @@ elif input1 == 'baby':
             print('then toss it in the frezer for one day and start to unfreze it the nexst day')
             input6 = input('want to wizz it up in a blender: ')
             if input6 == 'yes':
+                print('then take your baby put it on the fring pan for twenty minutes, and add some salt and pepper to it')
                 print('then wizz it up in a blender for 20 secons')
                 input7 = input('want to make it a milkshake: ')
                 if input7 == 'yes':
                     print('then toss it in the wizzer with some ice cream and milk for a cople of seconds and bam a baby flavored milkshake')
                 if input7 == 'no':
                     print('then a soup it is, toss it in a blender with some vegtables and spices maybe some salt if you want put it all in a pot and let it cook for therty minutes to an hour and bam now you have made baby soup')
+            if input6 == 'no':
+                input11 = input('want to add it to a mc meal: ')
+                if input11 == 'yes':
+                    print('then put it in a bun add some scliced up pickles, tomato suoce, and a sclice of cheese, and bam your mc baby is ready(it gos realy well with the mc baby friys)')
         if input5 == 'no':
             print('then body temp it is')
             input8 = input('want to chop up the baby: ')
@@ -52,4 +57,4 @@ elif input1 == 'baby':
                 print('then stuff your baby with fruit paste')
                 input10 = input('want to put it in the deep frier: ')
                 if input10 == 'yes':
-                    print('then toss it in the deep frier for five minutes, when done ad some scorse on it and enjoy your baby tart')
+                    print('then toss it in the deep frier for five minutes, when done ad some scorse on it and enjoy your baby tart ')
