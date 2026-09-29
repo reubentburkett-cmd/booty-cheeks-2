@@ -46,3 +46,10 @@ elif input1 == 'baby':
                 input9 = input('want to put it in the deep frier: ')
                 if input9 == 'no':
                     print('then where going to make a baby salad, toss the baby in the oven to cook for fourty minutes, while the baby is cooking chop up some vegtables for the salad, once the baby stops cooking and is at the disiered temp, bring it out of the oven and put it with the choped up vegtables, and to finish it off, add a nice dresing to it and your done, enjoy your baby salad')
+                if input9 == 'yes':
+                    print('then put it in the deep frier for five minutes, once its all crispy(by the way this meal gos well with the mc baby), grab some tomato souce and your done have fun eating your mc baby fris')
+            if input8 == 'no':
+                print('then stuff your baby with fruit paste')
+                input10 = input('want to put it in the deep frier: ')
+                if input10 == 'yes':
+                    print('then toss it in the deep frier for five minutes, when done ad some scorse on it and enjoy your baby tart')
