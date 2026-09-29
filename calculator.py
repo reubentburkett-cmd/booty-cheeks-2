@@ -1,6 +1,6 @@
 print("couculator of doom the sprickulator")
 input1 = input("code word: ")
-if input1 == 'culator':
+if input1 == 'calculator':
     num1 = input("number 1: ")
     val = input("opreator: ")
     num2 = input("number 2:")
@@ -34,4 +34,4 @@ elif input1 == 'baby':
             if input6 == 'yes':
                 print('then wizz it up in a blender for 20 secons')
                 input7 = input('want to make it a milkshake: ')
-                if input7 == 'yes'
+                if input7 == 'yes':
