@@ -17,4 +17,7 @@ if input1 == 'culator':
     print(ans)
 elif input1 == 'baby':
     print("how do you like you baby")
-    input("do you like them walm")
+    input2 = input("do you like them walm: ")
+    if input2 == 'yes':
+        print("then toss it in the microwave for 30 seconds")
+        input3 = input('want it to be roasted: ')
